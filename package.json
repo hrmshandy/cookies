@@ -1,0 +1,19 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrmshandy/cookies.git"
+  },
+  "author": "Shandy Hermawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrmshandy/cookies/issues"
+  },
+  "homepage": "https://github.com/hrmshandy/cookies#readme"
+}
